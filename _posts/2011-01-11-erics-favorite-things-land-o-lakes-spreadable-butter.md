@@ -5,8 +5,6 @@ author: admin
 post_date: 2011-01-11 23:11:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://christinekoleda.com/blog/erics-favorite-things/erics-favorite-things-land-o-lakes-spreadable-butter/
 published: true
 ---
 After finishing the book <a href="http://www.amazon.com/gp/product/0143114964?ie=UTF8&amp;tag=erikol03-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0143114964"><em>In Defense of Food</em></a> a couple of months ago I resolved to start eating more <span style="text-decoration: underline;">food</span> and less "food", aka food products and food science.  A sandwich using fresh meat and bread is certainly more appealing then a Lean Pocket, but not everything in my fridge is easily to swap out for its more natural counterpart.  After watching a <a href="http://vimeo.com/4941611">video on the history of butter vs. margarine</a> I knew it was time to switch, but I had a dark past with butter that I didn't want to relive...

@@ -5,8 +5,6 @@ author: admin
 post_date: 2011-01-09 00:23:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://christinekoleda.com/blog/uncategorized/my-thoughts-on-diamond-buying/
 published: true
 ---
 In the months before proposing to Christine I did a great deal of research on diamonds and how to buy them.  There are a million websites out there that will tell you about the 4C's of diamond buying, but very few that will tell you how to value those qualities or what ranges to aim for.  I scoured the internet and picked the brains of my friends and coworkers to get a sense of what was really important.  It felt like a shame to learn all this and then only use it once, so I thought I'd share my experiences in the hopes of helping other men out there.   I certainly don't claim to be an expert on the subject, but I do offer a data point that you can use when making your own decisions.

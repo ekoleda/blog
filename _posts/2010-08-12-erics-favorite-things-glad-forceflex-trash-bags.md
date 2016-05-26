@@ -5,8 +5,6 @@ author: admin
 post_date: 2010-08-12 22:43:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://christinekoleda.com/blog/erics-favorite-things/erics-favorite-things-glad-forceflex-trash-bags/
 published: true
 ---
 As a child one of my assigned household chores was taking out the trash, from the house to the backyard, and from the backyard to the curb.  My poor memory and disposition towards procrastination lead to more than a few barefoot, early morning, winter sprints to haul the all three full cans to the street before the garbage trucks left the block and my mom blew her lid.  Overall though it was a decent chore to get stuck with and earned me the $5 a week allowance that kept me living the high life.

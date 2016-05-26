@@ -5,8 +5,6 @@ author: admin
 post_date: 2015-09-05 12:15:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://christinekoleda.com/blog/uncategorized/hello-world/
 published: true
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!

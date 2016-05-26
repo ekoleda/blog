@@ -5,8 +5,6 @@ author: admin
 post_date: 2011-09-15 23:30:01
 post_excerpt: ""
 layout: post
-permalink: >
-  http://christinekoleda.com/blog/erics-favorite-things/erics-favorite-things-brother-hl-2170w-laser-printer/
 published: true
 ---
 Back in August 2008 I finally gave up on my Lexmark inkjet printer/scanner/copier that I had since I was a freshman.  It took up a lot of space, I rarely used the advanced functions, and most importantly it was constantly burning through ink.  Unless you changed the settings every time you printed it would use the color cartridges for black and white content!  With a recent windfall from the Coinstar machine (protip: there is no fee if you get the money as an Amazon gift certificate) burning a hole in my pocket, I decided it was time for a change.
