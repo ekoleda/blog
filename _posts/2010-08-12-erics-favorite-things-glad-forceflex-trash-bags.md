@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: 'Eric&#8217;s Favorite Things: Glad ForceFlex Trash Bags'
+post_title: "Eric's Favorite Things: Glad ForceFlex Trash Bags"
 author: admin
 post_date: 2010-08-12 22:43:53
 post_excerpt: ""

@@ -1,6 +1,6 @@
 ---
 ID: 37
-post_title: 'Eric’s Favorite Things: Land O Lakes Spreadable Butter'
+post_title: "Eric's Favorite Things: Land O Lakes Spreadable Butter"
 author: admin
 post_date: 2011-01-11 23:11:37
 post_excerpt: ""

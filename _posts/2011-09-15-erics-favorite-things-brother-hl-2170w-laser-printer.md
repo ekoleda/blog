@@ -1,6 +1,6 @@
 ---
 ID: 44
-post_title: 'Eric&#8217;s Favorite Things: Brother HL-2170W Laser Printer'
+post_title: "Eric's Favorite Things: Brother HL-2170W Laser Printer"
 author: admin
 post_date: 2011-09-15 23:30:01
 post_excerpt: ""
