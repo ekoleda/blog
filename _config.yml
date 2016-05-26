@@ -1,0 +1,12 @@
+# Setup
+title: "Eric's Blog"
+tagline: "Because everyone needs a blog"
+baseurl: "/blog"
+
+# About/contact
+author:
+  name: "Eric Koleda"
+  url: http://erickoleda.com
+
+# Others
+markdown: kramdown
